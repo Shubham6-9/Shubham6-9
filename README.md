@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Freelance full-stack developer with experience in the MERN stack. I build scalable web applications using React and modern UI frameworks like Bootstrap and Tailwind CSS. <br>📱 I also develop mobile applications using React Native.
+🚀 Full-stack developer with experience in the MERN stack. I build scalable web applications using React and modern UI frameworks like Bootstrap and Tailwind CSS. <br>📱 I also develop mobile applications using React Native.
 
 
 ## 🌐 Socials:
